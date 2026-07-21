@@ -1,0 +1,13 @@
+# credentials / local config
+*.cfg
+
+# runtime data
+cache/
+webview2/
+WebView2Data/
+
+# build artifacts and prebuilt binaries
+*.exe
+*.dll
+*.a
+*.res
